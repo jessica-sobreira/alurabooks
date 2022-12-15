@@ -1,6 +1,7 @@
 <h1 align ="center">Alurabooks</h1>
 
-![Alurabooks](https://user-images.githubusercontent.com/117686537/207965285-c47f4c4f-52e3-4ffa-ace0-64ed2cd6ed0b.png)
+![Alurabooks](https://user-images.githubusercontent.com/117686537/207967084-6bd7af78-f6cc-4659-a88c-0550a7a61a29.png)
+
 
 ![GitHub issues](https://img.shields.io/github/issues/jessica-sobreira/alura-plus)
 ![GitHub Org's stars](https://img.shields.io/github/stars/jessica-sobreira/alura-plus)
