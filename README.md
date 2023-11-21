@@ -1,6 +1,6 @@
 <h1 align ="center">Alurabooks</h1>
 
-![Alurabooks](https://user-images.githubusercontent.com/117686537/207967084-6bd7af78-f6cc-4659-a88c-0550a7a61a29.png)
+![screencapture-alurabooks-drab-vercel-app-2023-11-21-11_20_42](https://github.com/jessica-sobreira/alurabooks/assets/117686537/260944fa-826c-43e2-8e0f-6e5409604eab)
 
 
 ![GitHub issues](https://img.shields.io/github/issues/jessica-sobreira/alura-plus)
@@ -8,9 +8,6 @@
 
 Alurabooks foi um projeto desenvolvido na aula "HTML e CSS: responsividade com mobile-first", ministrado pela instrutora Mônica Hillman. O objetivo foi colocar em prática os conhecimentos transmitidos no curso para o aperfeiçoamento do futuro Desenvolver Front-End.
 
-<h2 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h2>
 
 # :hammer: Funcionalidades do projeto
 
